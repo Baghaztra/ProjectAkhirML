@@ -1,8 +1,8 @@
-# 📊 Proyek Akhir Machine Learning Semester 5
+# 📊 Prediksi Penumbang Bandara
 
 ## 📌 Deskripsi
 
-Proyek ini adalah tugas akhir mata kuliah Machine Learning semester 5. Aplikasi ini dibuat menggunakan **Flask** sebagai backend dan beberapa algoritma machine learning dari **scikit-learn** dan **XGBoost** untuk memproses data dan membuat prediksi. Model yang telah dilatih disimpan menggunakan **pickle** dan diintegrasikan ke dalam aplikasi Flask.
+Proyek ini adalah tugas akhir mata kuliah Machine Learning semester 5. Machine Learning untuk memprediksi jumlah penumpang bandara dengan data bersumber dari BPS. Aplikasi ini dibuat menggunakan **Flask** sebagai backend dan beberapa algoritma machine learning dari **scikit-learn** dan **XGBoost** untuk memproses data dan membuat prediksi. Model yang telah dilatih disimpan menggunakan **pickle** dan diintegrasikan ke dalam aplikasi Flask.
 
 ## 📦 Teknologi yang Digunakan
 
